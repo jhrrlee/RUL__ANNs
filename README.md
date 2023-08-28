@@ -11,7 +11,7 @@ This repository contains code that implements a framework designed for diverse A
 
 ### Resources
 
-- **New Cycle Sum Data**: [View on Google Drive](https://drive.google.com/file/d/1ljRUXZ9TXUVUos1OLGd2y4BFgAsHKGuk/view?usp=sharing)
+- **New Cycle Sum Data**: [Download on Google Drive](https://drive.google.com/file/d/1ljRUXZ9TXUVUos1OLGd2y4BFgAsHKGuk/view?usp=sharing)
   
 - **Trained Models**: [Access on Google Drive](https://drive.google.com/drive/folders/1dw2_NGWkfXIJObCB2YlATVFuLgBD0tB8?usp=sharing)
 
