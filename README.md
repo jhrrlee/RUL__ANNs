@@ -1,4 +1,7 @@
 # RUL__ANNs
+
+## Unified framework for remaining useful lifetime prediction of li-ion batteries using diverse neural networks
+
 Original dataset
 https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation.git
 
