@@ -1,7 +1,19 @@
 # RUL__ANNs
 
 ## A machine learning framework for remaining useful lifetime prediction of li-ion batteries using diverse neural networks
-This repository contains code that implements a framework designed for diverse Artificial Neural Network (ANN) architectures. While it includes a comprehensive range of functionalities, such as hyperparameter optimization, dataset partitioning, and predictions using pre-trained models, it also offers tools for statistical analysis, model comparisons, and an in-depth examination of dataset partitioning.
+This repository houses a partial implementation of a framework that leverages diverse Artificial Neural Network (ANN) architectures for the Remaining Useful Life (RUL) prediction of Li-ion batteries.
+
+### Key Features:
+- **Diverse ANN Architectures**: Explore a variety of neural network architectures tailored for RUL prediction.
+- **Hyperparameter Optimization**: Fine-tune models to achieve optimal performance.
+- **Dataset Partitioning**: Utilize a stratified approach to ensure balanced and representative data splits.
+- **Pre-trained Model Predictions**: Leverage pre-trained models for quick and efficient predictions.
+- **Statistical Analysis & Model Comparisons**: Dive deep into model performances and draw meaningful comparisons.
+- **In-depth Dataset Partitioning Examination**: Understand the nuances and significance of our dataset partitioning approach.
+
+### Note:
+Due to confidentiality, the complete codebase is not available in this repository. However, the provided code offers insights into the methodology and approach used in our research.
+
 
 ### Resources
 
