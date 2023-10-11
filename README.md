@@ -2,6 +2,7 @@
 
 ## A machine learning framework for remaining useful lifetime prediction of li-ion batteries using diverse neural networks
 This repository houses a partial implementation of a framework that leverages diverse Artificial Neural Network (ANN) architectures for the Remaining Useful Life (RUL) prediction of Li-ion batteries.
+- **Full Code Repository**: [GitHub](https://github.com/jhrrlee/batmf/tree/v0.2b)
 
 ### Key Features:
 - **Diverse ANN Architectures**: Explore a variety of neural network architectures tailored for RUL prediction.
@@ -23,8 +24,6 @@ Due to confidentiality, the complete codebase is not available in this repositor
 
 ### Original Dataset Reference
 
-- **Title**: [Data Driven Prediction of Battery Cycle Life Before Capacity Degradation](https://www.nature.com/articles/s41560-019-0356-8)
-- **Authors**: K.A. Severson, P.M. Attia, et al.
 - **Source Repository**: [GitHub](https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation.git)
 
 
